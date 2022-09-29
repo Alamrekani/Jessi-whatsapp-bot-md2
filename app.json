@@ -1,18 +1,18 @@
 {
   "name": "Jessi-whatsapp-bot-md",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/whiteshadowofficial/Jessi-whatsapp-bot-md2",
-  "logo": "https://telegra.ph/file/57e0679dc28177770f449.jpg",
+  "repository": "https://chat.whatsapp.com/FZdkx0lrGrE0eOkDezDdd6",
+  "logo": "https://www.facebook.com/profile.php?id=100050653176574",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
       "url": "heroku/nodejs"
     },
     {
-      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+      "url": "https://www.facebook.com/profile.php?id=100050653176574"
     },
     {
-      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+      "url": "https://chat.whatsapp.com/FZdkx0lrGrE0eOkDezDdd6"
     }
   ],
    "formation": {
